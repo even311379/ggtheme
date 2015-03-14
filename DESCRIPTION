@@ -1,6 +1,6 @@
 Package: ggtheme
 Title: Minimal Theme for ggplot2 with Additional Options
-Version: 0.0.0.9001
+Version: 0.0.0.9002
 Authors@R: person("Jonas", "Schoeley", , "j.schoeley@gmail.com", role = c("aut", "cre"))
 Description: Adds a minimal theme to your \code{ggplot} object. Allows you to specify font size and family, colour of gridlines, which gridlines to draw, legend position and transparency level of legend background. Allows you to switch between white and transparent background.
 Depends:
